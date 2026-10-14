@@ -1,0 +1,1 @@
+static synthetic class CostumeX$1 {}
